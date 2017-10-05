@@ -1,0 +1,15 @@
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\bin\Debug\hometest1.exe.config
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\bin\Debug\hometest1.exe
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\bin\Debug\hometest1.pdb
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\MainWindow.g.cs
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\App.g.cs
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\hometest1_MarkupCompile.cache
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\hometest1_MarkupCompile.lref
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\MainWindow.baml
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\hometest1.g.resources
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\hometest1.Properties.Resources.resources
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\hometest1.csproj.GenerateResource.Cache
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\hometest1.csproj.CoreCompileInputs.cache
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\hometest1.exe
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\hometest1.pdb
+C:\Users\NikiH\Desktop\University Work\Programming\Codes\hometest1\hometest1\obj\Debug\hometest1.csprojResolveAssemblyReference.cache
