@@ -34,6 +34,7 @@ namespace hometest1
         double part1;
         double part2;
         double answer;
+        double dot = .0;
 
         public MainWindow()
         {
@@ -82,7 +83,6 @@ namespace hometest1
 
         private void nineButton_Click(object sender, RoutedEventArgs e)
         {
-            part1 = Convert.ToDouble(ScreenText.Text);
             ScreenText.AppendText("" + nine);
         }
 
@@ -143,6 +143,16 @@ namespace hometest1
                     ScreenText.Text = "" + answer;
                     break;
             }
+        }
+
+        private void clearButton_Click(object sender, RoutedEventArgs e)
+        {
+            ScreenText.Clear();
+        }
+
+        private void dotButton_Click(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }
